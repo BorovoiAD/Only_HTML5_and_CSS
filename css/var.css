@@ -1,0 +1,14 @@
+:root {
+  --color-navigation-border: #e6e6e6;
+  --color-btn-hover: #8f75be;
+  --color-speakers-hat-text-p: #6d6d6d;
+  --color-speakers-p-line: #464646;
+  --color-main-back: #cbf1f1;
+  --color-main-back-second: #b0bacf;
+  --color-main-back-third: #fff1e2;
+  --color-agenda-label-border: #252525;
+  --color-agenda-time-order-before-back: #363636;
+  --color-transparent: transparent;
+  --color-white: #fff;
+  --color-black-text: #2f2f2f;
+}
